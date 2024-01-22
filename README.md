@@ -53,7 +53,7 @@ In this project, I demonstrated advanced proficiency in leveraging Power BI, MS 
 
 ## DASHBOARD:
 
-![HR Dashboard ]()
+![HR Dashboard ](https://github.com/Nikhilkori03/Sala-Data-Analysis/blob/main/Dashboard.png?raw=true)
 
 ### DASHBOARD VIDEO:
 

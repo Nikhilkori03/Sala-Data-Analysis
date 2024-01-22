@@ -57,7 +57,7 @@ In this project, I demonstrated advanced proficiency in leveraging Power BI, MS 
 
 ### DASHBOARD VIDEO:
 
-https://github.com/Nikhilkori03/Sala-Data-Analysis/assets/152955475/7681c840-0232-42ab-91c4-0d686b2baf74.mp4
+https://github.com/Nikhilkori03/Data-analyst/assets/152955475/2432ba22-90c2-4a3e-bf7a-cfa85ada34a1.mp4
 
 ## Project Highlights:
 
